@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[tc2 Test running]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-04T12:20:33 IST" name="Default suite" finished-at="2023-01-04T12:20:33 IST" duration-ms="76">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T12:20:33 IST" name="Default test" finished-at="2023-01-04T12:20:33 IST" duration-ms="76">
+      <class name="testcases.tc2Test">
+        <test-method signature="m2()[pri:0, instance:testcases.tc2Test@33990a0c]" started-at="2023-01-04T12:20:33 IST" name="m2" finished-at="2023-01-04T12:20:33 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[tc2 Test running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- testcases.tc2Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
